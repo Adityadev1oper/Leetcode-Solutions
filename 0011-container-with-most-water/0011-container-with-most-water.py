@@ -4,8 +4,11 @@ class Solution:
         left = 0 
         right = len(height)-1
         while left < right: 
-            temp = min(height[left],height[right]) * (right - left)
-            volume = max(temp , volume)
+            volume = max(
+                volume,
+                min(height[left], height[right]) * (right - left)
+            )
+            
             if height[left] >= height[right]:
                 right -= 1 
             else:
