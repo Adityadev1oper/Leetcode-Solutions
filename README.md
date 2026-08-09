@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
