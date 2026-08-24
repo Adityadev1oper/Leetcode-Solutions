@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
