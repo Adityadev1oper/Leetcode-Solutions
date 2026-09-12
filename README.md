@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 ## Greedy
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3488-closest-equal-element-queries](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adityadev1oper/Leetcode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
